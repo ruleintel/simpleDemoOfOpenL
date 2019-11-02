@@ -1,0 +1,2 @@
+# simpleDemoOfOpenL
+一个简单的Demo，使用java实现OpenL规则引擎的调用
